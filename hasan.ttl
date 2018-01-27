@@ -1,2 +1,2 @@
-<> <http://example.org/title> "hello world" ;
+<> <http://example.org/title> "hello hhkb  world" ;
    <http://example.org/desc> "Clerezza is cool" .
