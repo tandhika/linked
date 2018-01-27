@@ -1,2 +1,4 @@
 <./> <http://example.org/title> "hello hhkb  world" ;
    <http://example.org/desc> "Clerezza is cool" .
+<./foo/bar> <http://example.org/title> "hello fooo  world" ;
+   <http://example.org/desc> "Clerezza is cool" .
